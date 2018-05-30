@@ -126,6 +126,15 @@ display:block;position:absolute;bottom:55%;left:28%;color:#1A2B3C;filter:alpha(o
 	right: 85px;
 	bottom:0;
 }
+.school-mask4{
+    width: 100px;
+    height: 35px;
+    background: #fff;
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+}
+
 .school-mask5{
 	width: 100px;
 	height: 100%;
