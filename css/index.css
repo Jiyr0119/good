@@ -81,6 +81,7 @@ display:block;position:absolute;bottom:55%;left:28%;color:#1A2B3C;filter:alpha(o
 	text-align:center;
 	font-size:24px;
 	margin-bottom:80px;
+	margin-top: 20px; 
 }
 .school-tit{
 	text-indent:1em;
@@ -91,7 +92,7 @@ display:block;position:absolute;bottom:55%;left:28%;color:#1A2B3C;filter:alpha(o
 }
 .school-item{
 	text-indent:2em;
-	font-size:18px;
+	font-size:20px;
 }
 .school-mask0{
 	width: 100px;
@@ -134,8 +135,8 @@ display:block;position:absolute;bottom:55%;left:28%;color:#1A2B3C;filter:alpha(o
 	top:0;
 }
 .school-text{
-	padding-top:36px;
-	font-size: 24px; 
+	padding-top:32px;
+	font-size: 18px; 
 }
 .clear-div{
     clear:both;
