@@ -44,7 +44,7 @@ display:block;position:absolute;bottom:55%;left:28%;color:#1A2B3C;filter:alpha(o
 }
 .title-box img{
 	width: 100%;
-	height: 50%;
+	height: 100%;
 }
 .title-box span{
 	font-size: .36rem;
